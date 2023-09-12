@@ -5,6 +5,8 @@ Based on "Why Svelte is the Next Big Thing in JavaScript Development" at https:/
 
 Based on "Learn Svelte" at https://learn.svelte.dev/
 
+Based on "Rich Harris: Futuristic Web Development" at https://www.youtube.com/watch?v=qSfdtmcZ4d0
+
 Like React and Vue, Svelte is a JavaScript framework/library. In general, it’s a set of components, tools and rules for creating the structure of websites and applications with the use of JavaScript. Svelte, however, has developed its own, original way to let developers build what they need and want. Due to this fresh approach, Svelte is sometimes described as a compiler.
 
 React and Vue use a virtual DOM in the browser, which leads to certain performance shortcomings. The DOM (Document Object Model) is an interface for web pages. It is an API that allows programs to read and manipulate the page content, structure and styles. You can compare it to temporary memory storage for interface changes.
